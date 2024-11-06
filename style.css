@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(151, 89, 52);
+}
+
+#lista{
+    color: rgb(255, 255, 255);
+}
+
+button{
+    color: white;
+    background-color: rgb(100, 100, 100);
+    border: 2px solid rgb(82, 82, 82);
+    border-radius: 20px;
+    padding: 8px;
+}
+
+ul{
+    font-family: 'Kode Mono', sans-serif ;
+}
